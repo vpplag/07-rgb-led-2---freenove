@@ -1,5 +1,5 @@
 {
-    "name": "07. RGB LED 2 - Freenove",
+    "name": "14. Potensiometer and LED 2 - Freenove",
     "description": "",
     "dependencies": {
         "core": "*",
